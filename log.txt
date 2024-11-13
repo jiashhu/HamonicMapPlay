@@ -1,0 +1,40 @@
+h = 0.015 and dofs = 5284
+tau = 6.0 and vari = 0.749959803203052
+Final N_iter is 5000
+Final eneryg is 3.4233834898438142
+
+
+h = 0.015 and dofs = 5284
+tau = 3.0 and vari = 0.3684111336154033
+Final N_iter is 4554
+Final eneryg is 2.3870462583249803
+
+### 经验：使用太大的tau不靠谱
+tau = 6.0 and vari = 0.02657563716034227
+Final N_iter is 60
+Final eneryg is 3.1197638279687134
+
+Energy of exact solution is 3.0088318978905484
+tau = 7.0 and vari = 0.010258188436496394
+Final N_iter is 53
+Final eneryg is 3.0482833111589946
+
+tau = 8.0 and vari = 0.0026470318769056637
+Final N_iter is 70
+Final eneryg is 3.0168390278909496
+
+tau = 9.0 and vari = 0.0005542593686531275
+Final N_iter is 136
+Final eneryg is 3.010236100812738
+
+tau = 10.0 and vari = 9.863510096279044e-05
+Final N_iter is 271
+Final eneryg is 3.0090777271865665
+
+tau = 11.0 and vari = 1.6900847376931428e-05
+Final N_iter is 541
+Final eneryg is 3.0088727132054314
+
+tau = 12.0 and vari = 2.883130001328924e-06
+Final N_iter is 1081
+Final eneryg is 3.008838794466002
